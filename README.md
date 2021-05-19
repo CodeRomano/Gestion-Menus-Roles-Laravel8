@@ -1,8 +1,5 @@
+#Gestión de Menús y Roles
 # Laravel 8 con Platilla AdminLTE
-
-## Comenzando 🚀
-
-_Sigue las siguientes instruscciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla AdminLTE en Laravel 8._
 
 ### Pre-requisitos 📋
 
@@ -37,7 +34,7 @@ _Sigue las siguientes instrucciones para clonar el repositorio_
 _Clone el repositorio_
 
 ```
-git clone https://github.com/jorgehernandezch/Laravel-8-AdminLTE.git
+git clone https://github.com/CodeRomano/Gestion-Menus-Roles-Laravel8.git
 ```
 
 _Instale todas las dependencias del Proyecto con_
@@ -71,10 +68,6 @@ _Corra las migraciones del proyecto con_
 php artisan migrate
 ```
 
-_Corra los seeder del proyecto con_
-
-```
-php artisan db:seed
 ```
 _Corra el proyecto con_
 
@@ -82,9 +75,4 @@ _Corra el proyecto con_
 php artisan serve
 ```
 
-_Si todo está correcto puede acceder al proyecto en la dirección http://localhost:8000_ con el Usuario admin@admin.com - Admin
-
-
----
-[Jorge Edo. Hernández](https://github.com/jorgehernandezch)  
-_Ingeniero y Desarrollador Web_
+_Si todo está correcto puede acceder al proyecto en la dirección http://localhost:8000_ 
