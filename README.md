@@ -1,4 +1,4 @@
-# Gestión de Menús y Roles en Laravel 8 con Platilla AdminLTE
+# Gestión de Menús y Roles en Laravel 8 con Plantilla AdminLTE
 
 ### Pre-requisitos 📋
 
