@@ -68,7 +68,6 @@ _Corra las migraciones del proyecto con_
 php artisan migrate
 ```
 
-```
 _Corra el proyecto con_
 
 ```
