@@ -10,19 +10,19 @@
     <div class=row>
     <div class="form-group col-3" >
         <label for="Rol_Sistema"> Sistema</label>
-        <input type="text" class="form-control" name="Rol_Sistema" value="{{ isset($rol->Rol_Sistema) ? $rol->Rol_Sistema:'' }}" id="Rol_Sistema">
+        <input type="text" class="form-control" name="Rol_Sistema" value="{{ isset($rol->Rol_Sistema) ? $rol->Rol_Sistema:'' }}" id="Rol_Sistema" required="required">
     </div>
     <div class="form-group col-3">
         <label for="Rol_Id"> Rol</label>
-        <input type="text" class="form-control" name="Rol_Id" value="{{ isset($rol->Rol_Id) ? $rol->Rol_Id:'' }}" id="Rol_Id">
+        <input type="text" class="form-control" name="Rol_Id" value="{{ isset($rol->Rol_Id) ? $rol->Rol_Id:'' }}" id="Rol_Id" required="required">
     </div>
     <div class="form-group col-3">
         <label for="Rol_Desc"> Descripción</label>
-        <input type="text" class="form-control" name="Rol_Desc" value="{{ isset($rol->Rol_Desc) ? $rol->Rol_Desc:'' }}" id="Rol_Desc">
+        <input type="text" class="form-control" name="Rol_Desc" value="{{ isset($rol->Rol_Desc) ? $rol->Rol_Desc:'' }}" id="Rol_Desc" required="required">
     </div>
     <div class="form-group col-3">
         <label for="Rol_Estado"> Estado</label>
-        <select class="form-control custom-select" name="Rol_Estado"  id="Rol_Estado">
+        <select class="form-control custom-select" name="Rol_Estado"  id="Rol_Estado" required="required">
             <option value="A" {{ trim(isset($rol->Rol_Estado))=='A' ? 'selected':'' }}>Activo</option>
             <option value="X" {{ trim(isset($rol->Rol_Estado))=='X' ? 'selected':'' }}>Inactivo</option>
         </select>
