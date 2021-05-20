@@ -1,6 +1,11 @@
 # Gestión de Menús y Roles en Laravel 8 con Plantilla AdminLTE
 
-<p align="center"><img src="/public/img/login.png" alt="Login App" width="600"/></p>
+<p align="center">
+    <img src="/public/img/login.png" alt="Login App" width="400"/>
+    <img src="/public/img/menu.png" alt="Menu App" width="400"/>
+    <img src="/public/img/roles_1.png" alt="Roles App" width="400"/>
+    <img src="/public/img/roles_2.png" alt="Roles App" width="400"/>
+</p>
 
 ### Pre-requisitos 📋
 
