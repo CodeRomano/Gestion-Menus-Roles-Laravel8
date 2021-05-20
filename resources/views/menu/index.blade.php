@@ -102,7 +102,7 @@
                                           <tr class="div_{{$claveMenu}} div_{{$claveSubMenu}}">
                                             <td class="text-left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>{{ $item->Men_Id }}</b></td>
                                             <td>
-                                                <img class="img-thumbail img-fluid" src="{{ asset('storage').'/'.$submenu->Men_Icono }}" width="30" alt="">
+                                                <img class="img-thumbail img-fluid" src="{{ asset('storage').'/'.$item->Men_Icono }}" width="30" alt="">
                                             </td>
                                             <td>{{ $item->Rec_Id }}</td>
                                             <td>{{ $item->Men_Titulo }}</td>
