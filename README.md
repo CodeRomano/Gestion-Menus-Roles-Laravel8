@@ -2,9 +2,9 @@
 
 <p align="center">
     <img src="/public/img/login.png" alt="Login App" width="400"/>
-    <img src="/public/img/menu.png" alt="Menu App" width="600"/>
-    <img src="/public/img/roles_1.png" alt="Roles App" width="600"/>
-    <img src="/public/img/roles_2.png" alt="Roles App" width="600"/>
+    <img src="/public/img/menu.png" alt="Menu App" width="700"/>
+    <img src="/public/img/roles_1.png" alt="Roles App" width="700"/>
+    <img src="/public/img/roles_2.png" alt="Roles App" width="700"/>
 </p>
 
 ### Pre-requisitos 📋
